@@ -50,3 +50,7 @@ These are the real, genuine gaps between this free stub and a production monitor
 ## Need scheduling, delta-tracking, and reliability?
 
 For scheduled runs, delta/change-tracking, and reliability guarantees, see the production actor: https://apify.com/stefano_seggio/actor-24-clinical-trials-delta-engine
+
+## License
+
+MIT — see [LICENSE](LICENSE).
